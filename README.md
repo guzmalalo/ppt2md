@@ -1,4 +1,4 @@
-# ppt2md
+# Power Point to Markdown - ppt2md
 
 VBA script to export a PowerPoint presentation in markdown format.
 
